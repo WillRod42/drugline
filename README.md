@@ -1,6 +1,45 @@
 # DrugLine
 #### By William Rodriguez
 
+## Technologies Used
+* React
+* .NET API
+* C#
+* MySQL
+* JS
+* Bootstrap
+* HTML
+* CSS
+
+## Description
+
+A fullstack web-app where users can lookup drug information using a National Drug Code (NDC).
+
+## Setup/Installation Requirements (Subject to change)
+
+* Clone this repository to your desktop or any directory of your choice
+  * Run the command below in a bash terminal with [git](https://github.com/git-guides/install-git) installed
+```
+git clone https://github.com/WillRod42/drugline.git
+```
+* Or download as a zip file
+  * Click the green code button on the repository page
+  * At the bottom of the popup window select `Download ZIP`
+  * Extract the downloaded .zip folder
+* Open the top level folder of the downloaded repsoitory
+* Open bash terminal in this directory with [node](https://nodejs.org/en/download/) installed
+* run `npm install` and afterwards `npm start` to host a local, live version of this web-app
+
+## Component Diagram
+_Coming soon_
+
+## Architecture Diagram
+_Coming soon_
+
+## Known Bugs
+
+* None
+
 ## Research and Planning Log
 ### 7/8/22
 * 8:15: Outline objectives for the day
@@ -14,3 +53,10 @@
 * 2:00: Test DailyMed's web api
 * 3:00: Draft architecture of project
 * 4:00: Write project proposal
+* 4:30: Fill out readme
+
+## License
+
+MIT
+
+Copyright (c) 2022 William Rodriguez
