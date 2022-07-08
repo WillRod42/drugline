@@ -7,3 +7,4 @@
 * 8:30: Find drug information api's
 * 9:00: Research Medline's drug information service
 * 10:10: Research and test Medline's web api
+* 11:30: Research American Society of Health-System Pharmacists (ASHP)
