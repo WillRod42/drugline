@@ -12,3 +12,4 @@
 * 1:20: Research DailyMed's drug information service
 * 1:40: Research National Drug Codes (NDC's)
 * 2:00: Test DailyMed's web api
+* 3:00: Draft architecture of project
