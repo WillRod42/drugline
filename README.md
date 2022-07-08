@@ -10,3 +10,4 @@
 * 11:30: Research American Society of Health-System Pharmacists (ASHP)
 * 1:00: Find additional resources through National Library of Medicine (NLM)
 * 1:20: Research DailyMed's drug information service
+* 1:40: Research National Drug Codes (NDC's)
