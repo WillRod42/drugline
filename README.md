@@ -9,3 +9,4 @@
 * 10:10: Research and test Medline's web api
 * 11:30: Research American Society of Health-System Pharmacists (ASHP)
 * 1:00: Find additional resources through National Library of Medicine (NLM)
+* 1:20: Research DailyMed's drug information service
