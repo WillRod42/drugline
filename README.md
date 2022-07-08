@@ -13,3 +13,4 @@
 * 1:40: Research National Drug Codes (NDC's)
 * 2:00: Test DailyMed's web api
 * 3:00: Draft architecture of project
+* 4:00: Write project proposal
