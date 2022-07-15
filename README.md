@@ -63,6 +63,7 @@ _Coming soon_
 * 10:45: Look for alternate endpoint on DailyMed api
 * 11:00: Look into xml stylesheet
 * 1:00: Load xls remote cors error
+* 2:30: xml with css
 
 ## License
 
