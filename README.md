@@ -57,6 +57,8 @@ _Coming soon_
 
 ### 7/15/22
 * 8:15: Outline objectives for the day
+* 8:30: Explore alternate medical information databases (PubMed, Open-i, ClinicalTrials.gov)
+
 
 ## License
 
