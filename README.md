@@ -55,6 +55,9 @@ _Coming soon_
 * 4:00: Write project proposal
 * 4:30: Fill out readme
 
+### 7/15/22
+* 8:15: Outline objectives for the day
+
 ## License
 
 MIT
