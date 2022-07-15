@@ -65,6 +65,7 @@ _Coming soon_
 * 1:00: Load xls remote cors error
 * 2:30: xml with css
 * 4:00: DailyMed alternatives (openFDA, RxNorm)
+* 4:50: Drug interaction api
 
 ## License
 
