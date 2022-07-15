@@ -59,7 +59,7 @@ _Coming soon_
 * 8:15: Outline objectives for the day
 * 8:30: Explore alternate medical information databases (PubMed, Open-i, ClinicalTrials.gov)
 * 10:00: Figure out way to parse DailyMed results
-
+* 10:15: Try converting DailyMed xml results to JSON
 
 ## License
 
