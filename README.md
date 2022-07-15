@@ -62,6 +62,7 @@ _Coming soon_
 * 10:15: Try converting DailyMed xml results to JSON
 * 10:45: Look for alternate endpoint on DailyMed api
 * 11:00: Look into xml stylesheet
+* 1:00: Load xls remote cors error
 
 ## License
 
