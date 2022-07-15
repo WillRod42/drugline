@@ -60,6 +60,7 @@ _Coming soon_
 * 8:30: Explore alternate medical information databases (PubMed, Open-i, ClinicalTrials.gov)
 * 10:00: Figure out way to parse DailyMed results
 * 10:15: Try converting DailyMed xml results to JSON
+* 10:45: Look for alternate endpoint on DailyMed api
 
 ## License
 
