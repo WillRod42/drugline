@@ -64,6 +64,7 @@ _Coming soon_
 * 11:00: Look into xml stylesheet
 * 1:00: Load xls remote cors error
 * 2:30: xml with css
+* 4:00: DailyMed alternatives (openFDA, RxNorm)
 
 ## License
 
