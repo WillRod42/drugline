@@ -75,6 +75,7 @@ _Coming soon_
 * 11:30: Test RxNorm and openFDA endpoints
 * 1:50: Find usage limits and terms of use of both api's
 * 2:20: Decipher output of api's
+* 4:50: Design front-end
 
 ## License
 
