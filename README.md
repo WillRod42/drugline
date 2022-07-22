@@ -71,6 +71,7 @@ _Coming soon_
 * 8:15: Outline objectives for the day
 * 8:40: Research RxNorm and Drug Interaction api's
 * 9:50: Look up what RxCUI's are the difference from NDC's
+* 10:15: Find way to get RxCUI from NDC
 
 ## License
 
