@@ -73,6 +73,7 @@ _Coming soon_
 * 9:50: Look up what RxCUI's are the difference from NDC's
 * 10:15: Find way to get RxCUI from NDC
 * 11:30: Test RxNorm and openFDA endpoints
+* 1:50: Find usage limits and terms of use of both api's
 
 ## License
 
