@@ -67,6 +67,9 @@ _Coming soon_
 * 4:00: DailyMed alternatives (openFDA, RxNorm)
 * 4:50: Drug interaction api
 
+### 7/22/22
+* 8:15: Outline objectives for the day
+
 ## License
 
 MIT
