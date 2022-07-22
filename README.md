@@ -69,6 +69,7 @@ _Coming soon_
 
 ### 7/22/22
 * 8:15: Outline objectives for the day
+* 8:40: Research RxNorm and Drug Interaction api's
 
 ## License
 
