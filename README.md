@@ -77,6 +77,9 @@ _Coming soon_
 * 2:20: Decipher output of api's
 * 4:50: Design front-end
 
+### 7/26/22
+* 8:15: Outline objectives for the day
+
 ## License
 
 MIT
