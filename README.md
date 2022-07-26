@@ -79,6 +79,7 @@ _Coming soon_
 
 ### 7/26/22
 * 8:15: Outline objectives for the day
+* 8:30: Finish designing front-end
 
 ## License
 
