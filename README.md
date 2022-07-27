@@ -83,6 +83,7 @@ _Coming soon_
 
 ### 7/27/22
 * 8:15: Outline objectives for the day
+* 8:30: Re-evaluate scope of project
 
 ## License
 
