@@ -3,9 +3,6 @@
 
 ## Technologies Used
 * React
-* .NET API
-* C#
-* MySQL
 * JS
 * Bootstrap
 * HTML
@@ -13,7 +10,7 @@
 
 ## Description
 
-A fullstack web-app where users can lookup drug information using a National Drug Code (NDC).
+A web-app where users can lookup drug interaction information using National Drug Codes (NDC's).
 
 ## Setup/Installation Requirements (Subject to change)
 
@@ -31,10 +28,7 @@ git clone https://github.com/WillRod42/drugline.git
 * run `npm install` and afterwards `npm start` to host a local, live version of this web-app
 
 ## Component Diagram
-_Coming soon_
-
-## Architecture Diagram
-_Coming soon_
+![React component diagram](./Component%20Diagram%20-%20First%20Draft.png)
 
 ## Known Bugs
 
@@ -84,6 +78,18 @@ _Coming soon_
 ### 7/27/22
 * 8:15: Outline objectives for the day
 * 8:30: Re-evaluate scope of project
+
+## Stretch Goals
+* Back end with MySQL caching DailyMed API data
+* .NET API connecting front and back ends
+* User accounts/authentication
+* Allow users to pin/save certain drug information
+* Use sessions for authentication
+* Include searching for UPC and/or brand name and/or active ingredient
+
+### Initial Architecture Diagram
+![Architecture Diagram](./Initial%20Architecture%20-%20First%20Draft.png)
+
 
 ## License
 
