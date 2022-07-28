@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/drugline/static/css/main.d42d0ebb.chunk.css",
+    "main.js": "/drugline/static/js/main.6ec95adb.chunk.js",
+    "main.js.map": "/drugline/static/js/main.6ec95adb.chunk.js.map",
+    "runtime-main.js": "/drugline/static/js/runtime-main.5f252b64.js",
+    "runtime-main.js.map": "/drugline/static/js/runtime-main.5f252b64.js.map",
+    "static/css/2.a779dd76.chunk.css": "/drugline/static/css/2.a779dd76.chunk.css",
+    "static/js/2.a0900847.chunk.js": "/drugline/static/js/2.a0900847.chunk.js",
+    "static/js/2.a0900847.chunk.js.map": "/drugline/static/js/2.a0900847.chunk.js.map",
+    "static/js/3.1fa7dd2c.chunk.js": "/drugline/static/js/3.1fa7dd2c.chunk.js",
+    "static/js/3.1fa7dd2c.chunk.js.map": "/drugline/static/js/3.1fa7dd2c.chunk.js.map",
+    "index.html": "/drugline/index.html",
+    "precache-manifest.ee5bed93a8fff9e3ed6bd86febedab5c.js": "/drugline/precache-manifest.ee5bed93a8fff9e3ed6bd86febedab5c.js",
+    "service-worker.js": "/drugline/service-worker.js",
+    "static/css/2.a779dd76.chunk.css.map": "/drugline/static/css/2.a779dd76.chunk.css.map",
+    "static/css/main.d42d0ebb.chunk.css.map": "/drugline/static/css/main.d42d0ebb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f252b64.js",
+    "static/css/2.a779dd76.chunk.css",
+    "static/js/2.a0900847.chunk.js",
+    "static/css/main.d42d0ebb.chunk.css",
+    "static/js/main.6ec95adb.chunk.js"
+  ]
+}
