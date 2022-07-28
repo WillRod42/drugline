@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dbb86fc8db07b3095d863d2cf9051e8",
+    "revision": "b46d73918dc4d27f64416722f00e1b19",
     "url": "/drugline/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drugline/static/css/2.a779dd76.chunk.css"
   },
   {
-    "revision": "ca121c116665a73bb6d7",
-    "url": "/drugline/static/css/main.d42d0ebb.chunk.css"
+    "revision": "7c6b73b660f3b5650187",
+    "url": "/drugline/static/css/main.744aeaa3.chunk.css"
   },
   {
     "revision": "fa858eb7a8386c4c0e54",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drugline/static/js/3.1fa7dd2c.chunk.js"
   },
   {
-    "revision": "ca121c116665a73bb6d7",
-    "url": "/drugline/static/js/main.6ec95adb.chunk.js"
+    "revision": "7c6b73b660f3b5650187",
+    "url": "/drugline/static/js/main.097de572.chunk.js"
   },
   {
     "revision": "e6431f5d16a2812ae24f",

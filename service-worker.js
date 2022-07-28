@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/drugline/precache-manifest.ee5bed93a8fff9e3ed6bd86febedab5c.js"
+  "/drugline/precache-manifest.b1d8b9e6a31a2d4f9cb95936a05a201a.js"
 );
 
 self.addEventListener('message', (event) => {
