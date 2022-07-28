@@ -11,3 +11,79 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card {
+	max-width: 300px;
+}
+
+.flex-row {
+	margin-bottom: 2em;
+}
+
+.result {
+	border: black solid 1px;
+	padding: 0.5em;
+	margin-bottom: 2em;
+}
+
+.base-pair {
+	width: 60%;
+	margin: auto;
+	margin-bottom: 1em;
+}
+
+.main-content {
+	width: 80%;
+	margin: auto !important;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+
+.popup {
+	position: fixed;
+	height: 340px;
+	width: 750px; 
+	top: 50%;
+	left:50%;
+	margin-top: -170px;
+	margin-left: -375px;
+}
+
+.popup button {
+	float: right;
+	margin-top: 0.5em;
+	margin-right: 0.5em;
+}
+
+.popup .text {
+	padding: 2em;
+}
+
+#disclaimerBtn {
+	float: left;
+	cursor: pointer;
+}
+#disclaimerBtn:hover {
+	background-color: rgb(210, 217, 223);
+}
+
+#attribution {
+	float: right;
+}
+
+#disclaimerBtn, #attribution {
+	padding: 1em;
+}
+
+#root {
+	min-height: 100vh;
+}
+
+#search {
+	margin-bottom: 2em;;
+}
