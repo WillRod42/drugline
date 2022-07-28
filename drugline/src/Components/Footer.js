@@ -26,13 +26,24 @@ class Footer extends React.Component {
 		return (
 			<React.Fragment>
 				{popup}
-				<p className="bg-light footer link">
-					<div id="disclaimerBtn" onClick={this.openPopup}>Disclaimer</div>
-					<div id="attribution"><a target="_blank" href="https://open.fda.gov">Some data provided by the U.S. Food and Drug Administration</a></div>
-				</p>
+				<div className="bg-light footer link">
+					<ul>
+						<li id="disclaimerBtn" onClick={this.openPopup}>Disclaimer</li>
+						<a target="_blank" href="https://www.fda.gov/drugs/development-approval-process-drugs/national-drug-code-database-background-information">
+							<li>What is an NDC?</li>
+						</a>
+						<a id="attribution" target="_blank" href="https://open.fda.gov">
+							<li>Some data provided by the U.S. Food and Drug Administration</li>
+						</a>
+					</ul>
+					
+					
+				</div>
 			</React.Fragment>
 		);
 	}
 }
+
+{/* <div id="attribution"></div> */}
 
 export default Footer;

@@ -12,6 +12,27 @@ code {
     monospace;
 }
 
+ul {
+	list-style-type: none;
+	margin-bottom: 0 !important;
+	padding: 1em;
+}
+
+li {
+	display: inline;
+	padding: 1em;
+}
+
+a {
+	color: inherit !important;
+	text-decoration: none !important;
+}
+
+li * {
+	display: inline;
+	width: fit-content;
+}
+
 .card {
 	max-width: 300px;
 }
@@ -64,20 +85,14 @@ code {
 	padding: 2em;
 }
 
-#disclaimerBtn {
-	float: left;
-	cursor: pointer;
-}
-#disclaimerBtn:hover {
+#li:hover, #disclaimerBtn:hover {
 	background-color: rgb(210, 217, 223);
+	cursor: pointer;
 }
 
 #attribution {
 	float: right;
-}
-
-#disclaimerBtn, #attribution {
-	padding: 1em;
+	padding: 0;
 }
 
 #root {
