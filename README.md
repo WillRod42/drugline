@@ -1,6 +1,8 @@
 # DrugLine
 #### By William Rodriguez
 
+[Try it here!](https://willrod42.github.io/drugline/)
+
 ## Technologies Used
 * React
 * JS
